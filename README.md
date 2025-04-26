@@ -45,6 +45,6 @@ The tasks are stored in a JSON file in your local directory.
 - List tasks by status
 
 
-## Project Page URL
+Project URL
 
 > https://github.com/amitkumar2208/task-tracker-cli
