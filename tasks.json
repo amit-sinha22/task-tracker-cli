@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2025-04-26T17:42:34.094032",
+    "updatedAt": "2025-04-26T17:42:34.094032"
+  },
+  {
+    "id": 2,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2025-04-26T18:12:05.016478",
+    "updatedAt": "2025-04-26T18:12:05.016478"
+  }
+]
